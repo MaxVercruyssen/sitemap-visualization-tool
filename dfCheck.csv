@@ -1,0 +1,203 @@
+﻿,topic_id,name,validation_stage,SourceData,KeyBERT_InKey,TopicRank_InKey
+0,0798e0e9-9ed4-57fa-9eed-0dccb8250c38,Accounting,9,Found,NotFound,NotFound
+1,48653aac-d139-5cc5-9e83-b7e3bb5fb867,Accounts payable,9,Found,NotFound,NotFound
+2,4c2c5eb7-8304-5c1d-8513-95bcc1af085b,Accounts receivable,9,Found,NotFound,NotFound
+3,29b52ca6-9b1d-5317-bba4-e5118fb6badd,Application Maintenance Services,9,Found,NotFound,NotFound
+4,3ec207ae-7a72-543e-a756-18466b490af9,Aprimo,9,Found,NotFound,Found
+5,66c0ceeb-9e6c-5828-996e-437cfe1fdb47,Artifical Intelligence,9,NotFound,NotFound,NotFound
+6,4d41dc0e-3642-5134-830a-5d0b49edee67,Augmented Reality,9,Found,NotFound,Found
+7,abb82c1b-d896-538e-82bc-b3fc84aa218d,Azure,9,Found,NotFound,Found
+8,f4c1459a-9bcc-561b-a1be-5a79aab0fef0,Azure DevOps,9,Found,NotFound,NotFound
+9,aa5f1c54-fc5f-5824-8a9f-fe2c9e4727db,Azure Integration Services,9,Found,NotFound,NotFound
+10,39bbd95e-edb2-5dd3-a93d-9da4a1f10025,Azure LogicApps,9,NotFound,NotFound,NotFound
+11,026a4425-c55f-51b6-bd6f-1642273c5084,Azure Purview,9,Found,Found,Found
+12,68d307b4-cb57-5bc2-89d8-61793d93de77,Big Data,9,Found,NotFound,NotFound
+13,8a725a5e-5e7d-50b4-b4e8-1245f02c024c,Bike Policy,7,Found,NotFound,NotFound
+14,51604996-bf44-53ff-ab87-59de27ac3471,Biztalk,9,Found,NotFound,NotFound
+15,2ded69d8-1ff0-5a79-942a-ec8c9acd4281,Blockchain,9,Found,Found,Found
+16,ed27a8d9-c293-5c42-9096-a7af80b6a811,BW/4HANA,9,Found,NotFound,NotFound
+17,32e2af33-82fb-57b5-ad35-e849050712d3,Car Policy,7,Found,NotFound,NotFound
+18,aa7bfc96-0d0c-548b-a7bc-9177fb8b377a,CDS,9,Found,NotFound,NotFound
+19,eda0f16f-cdc6-5908-8238-39126cfb896e,Change Management,9,Found,Found,Found
+20,2ff534e3-bff1-5d56-aa1b-349ad638c08c,Chatbot,9,Found,NotFound,Found
+21,1a5ee838-8d85-5846-9843-093df98c049f,Claims management,9,Found,NotFound,NotFound
+22,013f85f1-3915-59ce-ba20-ee6add5cba6f,Controlling,9,Found,NotFound,NotFound
+23,ba432d3f-8785-5508-b847-bcd4134ee1b3,Costing,9,Found,NotFound,NotFound
+24,622db3e6-6b9e-5844-906b-d7dae7a11c58,Cost to Serve,9,Found,NotFound,NotFound
+25,188b88eb-48b7-5855-b1eb-a65825649332,Customer management,9,Found,NotFound,NotFound
+26,920dd658-688f-514c-9380-6dc0be12aca0,Customer service,9,Found,NotFound,Found
+27,f4069931-5dbd-5750-b4a2-9ca5f9f00b0a,Data & Analytics,9,Found,NotFound,NotFound
+28,91f341ce-ff32-5b26-9614-65b473e65e36,Databricks,9,Found,NotFound,Found
+29,d87cb5ec-09fd-5128-b849-f249b731bb56,Data Governance,9,Found,Found,Found
+30,8895d848-78ef-536c-b158-345771b6fad2,Data Migration,9,Found,NotFound,NotFound
+31,c06b9d59-69cc-5f50-a083-61dcfcdcbc0b,Data Modelling,9,Found,NotFound,NotFound
+32,81f330d4-3fcd-5909-b185-43d75168fa76,Data Science,9,Found,NotFound,Found
+33,8b664913-6af9-5f44-b11c-8418ece18b64,Data Visualization,9,Found,NotFound,NotFound
+34,3a9918ee-848f-52b2-86f9-90facc0c68a7,Data Warehouse,9,Found,NotFound,Found
+35,6884a4a3-dec6-53e4-80f8-3830ca2fc54a,Demand Planning,9,Found,NotFound,NotFound
+36,f3bdcb33-71ad-5ae8-b902-2afeae08529d,DevOps,9,Found,NotFound,Found
+37,02e0dc6a-7888-5ae8-be9a-2671ea2e93a2,Digital Asset Management,9,Found,Found,NotFound
+38,1d51c79e-f85f-515c-ba8a-f865a7ae26d6,Digital Transformation,9,Found,Found,Found
+39,feb80066-c520-5606-8133-c825c6870aad,Digital Workplace,9,Found,Found,Found
+40,ef0def9f-03b8-5101-a700-e0ad6a6ac61e,Disaster Recovery,9,Found,NotFound,NotFound
+41,084b04da-3ad5-5b5d-8b8f-71cb7f2df7f5,Document Management,9,Found,NotFound,NotFound
+42,2b64e42d-7a5e-565f-ba67-3dec89a8c5ff,Dynamics 365,9,Found,Found,NotFound
+43,45ca1602-6070-5788-9f42-cd22d582b5e7,Dynamics 365 Customer Engagement,9,Found,NotFound,NotFound
+44,89cd4343-c183-55dd-941e-f198c1f6ff0c,Dynamics 365 Finance & Operations,9,Found,NotFound,NotFound
+45,bb9e23f6-6939-52fc-abfc-1140e40669be,Dynamics CRM,9,Found,NotFound,Found
+46,073f1067-0374-5ceb-87ed-56644e0e565e,Dynamics NAV,9,Found,NotFound,NotFound
+47,eb6d9812-7a6b-5c8b-b0da-80e80d0e0363,EDI,9,Found,NotFound,NotFound
+48,60e004f0-89a2-529f-a79a-210798ea8b36,Effortless Expereince,9,NotFound,NotFound,NotFound
+49,b21267d9-7d8a-5f36-a998-e52e3c1999dd,Employee engagement,9,Found,NotFound,NotFound
+50,b776d64e-6644-5752-bfc7-486095a6b7e0,Employee experience,9,Found,NotFound,Found
+51,02942de8-45fa-5bc6-8019-57e21e7ff690,Enterprise Architecture,9,Found,Found,Found
+52,369d4b93-eab4-54cc-93e3-ccfd783f69e9,Episerver,9,Found,NotFound,NotFound
+53,ab647b46-8f1b-5fbe-866f-e1fb6ac9a103,ERP,9,Found,NotFound,Found
+54,0810dd2b-3bc9-5bd1-a750-19c458a6c996,Extended Reality,9,Found,NotFound,NotFound
+55,8722b02a-6a5b-5850-b6a0-3f3eccc59098,FAST,9,Found,NotFound,NotFound
+56,7effee31-3467-5c92-9bb4-3659eb335fa0,FAST-Automotive,9,Found,NotFound,Found
+57,2415d8ec-5f9b-5ef6-8b53-26463e24591d,FAST-Chemicals,9,NotFound,NotFound,Found
+58,11b763b2-004a-5347-96ee-b63dca269b29,FAST-Engineer,9,Found,NotFound,NotFound
+59,3a1c56e1-e3f6-5dd3-9045-a952932f7818,FAST-EWM,9,NotFound,NotFound,NotFound
+60,bb03abc9-02dd-52d6-a90c-f1f93924c5cb,FAST-Food,9,Found,NotFound,NotFound
+61,83a3e4b5-322b-52cb-90a5-61d0a7c9eff0,FAST-Healthcare,9,NotFound,NotFound,NotFound
+62,c375ad32-cd10-5f77-9612-c51f976c7f5b,FAST-Invoice,9,Found,NotFound,NotFound
+63,d5c6d05b-4428-5123-a174-40afc1972130,FAST-Pharmacy,9,NotFound,NotFound,NotFound
+64,4fe751a3-cc4c-513c-9da8-91a052d0c548,FAST-Professional Services,9,NotFound,NotFound,NotFound
+65,969f8174-a2eb-5034-99c3-0f84f3c76361,FAST-Retail,9,Found,NotFound,NotFound
+66,c5109493-069c-5f99-b038-5ff7f69527ee,Field Services,9,Found,Found,NotFound
+67,063e9021-6474-5884-bfef-9430ce8bd8b9,Finance,9,Found,NotFound,Found
+68,d2fb176e-7bd0-52a7-a389-9d67b87e5c2e,Financial Close,9,Found,NotFound,NotFound
+69,dabb0b2c-8e34-5a67-8810-953100e50be8,GDPR,9,Found,NotFound,Found
+70,b19efab2-141a-5b8d-a745-e1a4af8456f9,Governance,9,Found,NotFound,Found
+71,1bb95423-f2e1-599a-acb9-7eb8ed9c6325,Human resources,9,Found,NotFound,NotFound
+72,ec7b80da-4604-5755-9638-87c626e2b84d,IFRS,9,NotFound,NotFound,NotFound
+73,a333877d-994f-5d57-a627-afea7d53469b,Industry 4.0,9,Found,NotFound,NotFound
+74,af4c18ca-6496-56b1-a9af-05d17906ccd9,Information Management,9,Found,Found,Found
+75,153514aa-3556-579e-8bd7-4dab58cee7fc,Information Security,9,Found,NotFound,NotFound
+76,30b1a914-84e8-530e-a7be-8e63f5ab4216,inRiver,9,Found,NotFound,Found
+77,c9f12d62-8e10-53fe-aad7-2ca0bdfae4b4,Intranet,9,Found,NotFound,NotFound
+78,090ccedc-48a1-5bfa-992f-d1983d1f023c,Inventory Accounting,9,Found,NotFound,NotFound
+79,b4a6ade6-ec47-5d33-8936-6f82077b06fe,Invoice Management,9,Found,Found,NotFound
+80,8cf067fd-e028-5725-b65e-87e766c5ef59,IoT,9,Found,Found,Found
+81,984f72f5-7bbc-5d2c-bcd4-ae05db8b33ea,ISO,9,NotFound,NotFound,NotFound
+82,600cdee3-6b93-59d8-9a21-48bdcc69a9a4,Knowledge management,9,Found,NotFound,NotFound
+83,bb39560d-ccea-5487-a189-fc85e462021e,Legal Reporting,9,Found,NotFound,NotFound
+84,d9c5243c-201b-5d12-821b-e19b02c3f4f4,Long term planning,9,Found,NotFound,NotFound
+85,b2c97a7a-2593-560c-bcd8-a6550bdcb3ce,Low code,9,Found,NotFound,NotFound
+86,bdf44650-d7ba-57cd-80e8-518e9a3375c5,Machine Learning,9,Found,NotFound,Found
+87,4ad01f2b-1924-529a-a2f6-f53a188690a7,Make-to-order,9,NotFound,NotFound,NotFound
+88,d96e2651-bd66-5bdc-abee-bc05230b00ed,Make-to-Stock,9,NotFound,NotFound,NotFound
+89,d73bd8cc-76d2-5c45-a73d-75bb2d0b3096,Master Data,9,Found,NotFound,Found
+90,adcc03e7-f014-51f0-9b83-97ba22120661,Master data governance,9,Found,NotFound,NotFound
+91,f8570c28-1a3a-5f31-9438-ad02da14a756,Master Data Management,9,Found,Found,Found
+92,938eea6d-53a0-5e6c-af72-8a8cbe28fbf3,Mendix,9,Found,NotFound,Found
+93,8e393640-2f13-5231-9ba5-2950e75f65f9,MES,9,Found,NotFound,NotFound
+94,768d5dd3-f560-553a-9812-8a9e52d1f471,Microsoft 365,9,Found,NotFound,NotFound
+95,c154e2c9-e4d4-5a76-b33c-acc8242ae144,Microsoft Cortana,9,Found,NotFound,NotFound
+96,b5a3b251-d306-5e9f-b99f-4e0b8399c9ae,Microsoft Dynamics,9,Found,Found,Found
+97,cb97412f-2176-5e59-911c-6a6c3b85b1b0,Microsoft Dynamics 365 Business Central,9,Found,NotFound,NotFound
+98,a9498b61-f2a8-54f9-bad3-387a6ba2c1c5,Microsoft Dynamics AX,9,Found,NotFound,NotFound
+99,23addbfa-64a9-5bb8-ae4d-b4fb8f23f34d,Microsoft Intune,9,NotFound,NotFound,NotFound
+100,4c9385c5-5c36-581e-b62b-110b233bb5d8,Microsoft Teams,9,Found,Found,Found
+101,7d9caddf-a320-5211-b09e-af6bf5d4255d,Microsoft Viva,9,Found,NotFound,NotFound
+102,6752e36f-4115-59a7-bfbc-8611ad650d14,MS Power Apps,9,Found,NotFound,NotFound
+103,6733187b-4651-5635-8cf0-c19f7f8a7d57,MS Sharepoint,9,Found,NotFound,NotFound
+104,31d46b6b-4106-5e8e-a81c-71000be2248c,.NET,9,Found,NotFound,NotFound
+105,08738323-47ec-51e2-949a-fe085cf0c1e2,Office 365,9,Found,Found,NotFound
+106,75384daa-43f9-5a9b-8c6f-68dab612eedb,OpenText,9,Found,NotFound,NotFound
+107,81e90b3c-4924-597e-8fbc-8517171fdaa7,Outsystems,9,Found,NotFound,Found
+108,d6093410-0231-52a3-81ff-84545dd7b514,Performance Management,9,Found,NotFound,NotFound
+109,e85ae8f0-f850-5e4f-8ff8-5291a6d319a8,PIM,9,Found,NotFound,NotFound
+110,c838bcbd-d4ee-5f0b-94c3-083d1fd8d4bf,Plant Maintenance,9,Found,NotFound,NotFound
+111,56962598-4278-5e2d-8acd-04b4817175ff,Power Automate,9,Found,NotFound,Found
+112,101f57f8-c982-51ca-8e6f-04297b1dedb0,Power BI,9,Found,NotFound,NotFound
+113,19ef91e8-ab2d-54f9-98f6-00c28761e651,Process Excellence,9,Found,NotFound,NotFound
+114,706668be-306a-564b-a862-1445d1d36df9,Process Mining,9,Found,NotFound,NotFound
+115,9f55d9c6-cade-5fd2-b156-7ba128e59ea3,Product capabilities,9,Found,NotFound,NotFound
+116,c6d47402-d039-5d4e-a3a7-98f1947d8bb0,Production Integration,9,Found,NotFound,NotFound
+117,117faafe-d64e-5a82-a7e5-0a17aaeb1527,Product Management,9,Found,NotFound,NotFound
+118,ef521d35-9925-54ba-96d7-b95307d0cbad,Product portfolio management,9,Found,NotFound,NotFound
+119,41ad2f46-ab89-54c0-9bf5-65571100e0fb,Promotion management,9,Found,NotFound,NotFound
+120,4d0777a1-cddb-55f5-bcb4-ce73bd171284,Qlikview,9,NotFound,NotFound,NotFound
+121,9e067f7a-96dd-5884-865e-8960280f0471,Quality assurance,9,Found,NotFound,NotFound
+122,e1cf1212-8ecf-52d9-92c8-9a78ec38cc92,RF,9,Found,NotFound,NotFound
+123,8f53d815-5725-5636-b304-6efee483749c,Rise with SAP,9,Found,NotFound,NotFound
+124,337411dc-6f6f-51ee-a626-51381e04546e,Risk management,9,Found,NotFound,NotFound
+125,82ff041b-1f24-53fa-b7f1-ff3dbc72f74e,RPA,9,Found,NotFound,Found
+126,6ef17c47-bf87-5398-a847-4db562bd9d7a,S/4 Hana,9,Found,NotFound,NotFound
+127,9eeeca0d-e897-5e48-a699-3c137da1ef2f,S4/HANA Embedded Analytics,9,Found,NotFound,NotFound
+128,ed57a034-9900-5d3b-ab12-6922c923d559,Sales & Distribution,9,Found,NotFound,NotFound
+129,92627ee3-1ae6-518c-8ff2-0c6a05d6d8e1,Salesforce,9,Found,NotFound,Found
+130,dbdb86b7-f708-5faf-a67c-131f936b21f1,SAP,9,Found,NotFound,Found
+131,ea36a83a-4a4e-553d-9dd2-513715625b1d,SAP ABAP,9,Found,NotFound,NotFound
+132,ad4be297-0d6f-51b9-957f-9b7abe1bc6aa,SAP AFS,9,NotFound,NotFound,NotFound
+133,21cb9d77-1376-5501-a9cb-8c4c7f590c1f,SAP AIF,9,NotFound,NotFound,NotFound
+134,e35c5adb-58ec-5f96-88bb-bdd9a4eba66a,SAP Analytics ,9,Found,Found,NotFound
+135,d3378657-a5f0-54f1-bb9b-20fc0c6cc281,SAP Analytics Cloud,9,Found,Found,NotFound
+136,649c62cd-7e0c-56ef-8b43-c7d0ff80673d,SAP APO,9,Found,NotFound,NotFound
+137,e32abde5-ba66-5c28-9d02-4eb4b85b38f2,SAP Ariba,9,Found,NotFound,NotFound
+138,b77d61e8-fe76-5200-a211-0fe0ddb0299c,SAP BI,9,Found,NotFound,NotFound
+139,3d971116-bb34-53ac-a275-8aba10becd71,SAP BO,9,Found,NotFound,NotFound
+140,e7b9d3f6-bf2a-5f20-9a4d-fab908ebf892,SAP BPC,9,Found,NotFound,NotFound
+141,a05cd7e3-ff31-5eee-a49f-192bc8b0bef5,SAP BW,9,Found,NotFound,NotFound
+142,28c2559c-a3e6-5883-96d2-1a7612ac2560,SAP ByDesign,9,Found,NotFound,NotFound
+143,6e700d47-5044-52c3-bc9a-dfd37e836ba5,SAP C4C,9,NotFound,NotFound,Found
+144,d0d415fb-5393-50da-b104-4744306afd77,SAP Cloud Platform,9,Found,Found,NotFound
+145,3f7f277a-2fba-508b-b70e-607c7bdcb0f0,SAP Commerce Cloud,9,Found,Found,Found
+146,9261894c-31aa-506b-998b-e09313d9ee0e,SAP Concur,9,Found,NotFound,NotFound
+147,8699ea6e-f3cd-5ac4-af8c-f356b1b0a6eb,SAP CPI,9,Found,NotFound,NotFound
+148,a757afd7-d4f6-56a5-a441-099175615b4c,SAP Customer Data Cloud,9,Found,NotFound,Found
+149,d0ab07ee-e800-5fd3-881c-785662ee79ef,SAP ECC,9,Found,NotFound,NotFound
+150,c376b882-1c65-5389-b579-9c3da6a371fa,SAP Enable Now,9,Found,NotFound,NotFound
+151,5e6d73a7-d521-5e9c-a383-ab780b8fc836,SAP eWM,9,Found,Found,NotFound
+152,7fb6eba2-bdc8-5f0a-b3da-fa984acbc92b,SAP FICO,9,Found,NotFound,NotFound
+153,b6f09389-050e-50c6-82c5-a88cdda7f5ac,SAP Fiori,9,Found,Found,NotFound
+154,c5eba359-d5d4-54ba-9827-c6d62205fe00,SAP FM,9,NotFound,NotFound,NotFound
+155,31a7b11c-b06d-5c2e-be16-15d84f2ba63a,SAP GRC,9,NotFound,NotFound,NotFound
+156,a4a74f0b-ef5e-5ee0-a5e8-a583c7c47f04,SAP GTS,9,Found,NotFound,NotFound
+157,902ea396-151d-5575-b7e0-04355a48ce52,SAP HCM,9,Found,NotFound,NotFound
+158,ace2fa03-5b94-5d6b-97e8-3ebc15806941,SAP Hybris,9,Found,NotFound,NotFound
+159,b551588e-7919-5a52-baba-b66221217430,SAP Hybris C4C,9,NotFound,NotFound,NotFound
+160,eec4cb7c-acdd-54b5-888b-18a06d17cedf,SAP IBP,9,Found,NotFound,Found
+161,79828fd0-cb00-530d-acbd-4e15c5f9bcc1,SAP IDM,9,NotFound,NotFound,NotFound
+162,83541a14-7abc-5a17-b10b-60a03f9536c4,SAP Leonardo,9,Found,NotFound,NotFound
+163,de069e5c-c586-5e80-9b68-ee2251ab772e,SAP Litmos,9,Found,NotFound,Found
+164,fe40ab60-21a5-59fa-b6d5-197f6376628b,SAP Lumira,9,NotFound,NotFound,NotFound
+165,c1e38728-c30d-5bf2-942a-d6111f2ba017,SAP Marketing Cloud,9,Found,Found,NotFound
+166,d0e6b31d-0f29-53e2-a798-7a23f8a8f0f2,SAP MDG,9,NotFound,NotFound,NotFound
+167,6a3a95b9-f952-54a5-8117-ddd36a447541,SAP MII,9,Found,NotFound,Found
+168,071ae92d-0905-5343-84d0-3d406eae0433,SAP MM,9,NotFound,NotFound,NotFound
+169,4e41d9b7-5f5c-555a-9d60-e3f7cbe5fc43,SAP Netweaver,9,NotFound,NotFound,NotFound
+170,954ae941-f993-5b81-b4d3-f55f0b28040c,SAP on Azure,9,Found,NotFound,NotFound
+171,be8a6f3d-bcf2-55e9-bf3b-3c67088b56c9,SAP OTC,9,NotFound,NotFound,NotFound
+172,cfb1ab1f-8309-5be5-af5f-cde14d4e72cf,SAP PLM,9,Found,NotFound,NotFound
+173,931222d2-d5d9-5347-b460-22d698041a27,SAP PM,9,Found,NotFound,NotFound
+174,3aba0f10-b451-50f1-9b89-b85ad8b98319,SAP PO,9,Found,NotFound,NotFound
+175,29b66c23-87d7-5318-b198-6077d35864e4,SAP PP,9,NotFound,NotFound,NotFound
+176,33238936-92e1-5a0b-a4da-90995f901cbb,SAP PPM,9,NotFound,NotFound,NotFound
+177,d9d6f827-eacb-5a40-aa53-c0a9c666b59b,SAP PS,9,Found,NotFound,NotFound
+178,31720958-b00e-525c-b934-40d80bc88463,SAP QM,9,Found,NotFound,NotFound
+179,a9fe700d-b9ca-54f2-97b8-738f7a2862a8,SAP Qualtrics,9,Found,Found,NotFound
+180,3cc38449-6509-5ab0-9ada-afbc0b8c2f42,SAP RM,9,NotFound,NotFound,NotFound
+181,dfb2ee3b-2d26-56f4-b339-32d286d9c95a,SAP Sales Cloud,9,Found,NotFound,NotFound
+182,f5a0acf3-b2b9-52dd-a5d0-b0e5b812e486,SAP SD,9,NotFound,NotFound,NotFound
+183,e02fe077-be9b-52ee-beb5-7a184d2a5953,SAP Service Cloud,9,Found,NotFound,NotFound
+184,92c1065d-8658-5b41-a172-6f422b8ec984,SAP SRM,9,Found,NotFound,NotFound
+185,84a3df18-80ed-5bf8-9764-b67b30720d88,SAP SuccessFactors,9,Found,Found,Found
+186,dc9e64af-f368-5fb8-81c5-cd7865e81003,SAP TM,9,Found,NotFound,NotFound
+187,6cdec978-2be6-5ec9-b90c-dbfd902aada3,SAP TR,9,NotFound,NotFound,NotFound
+188,9e421f32-d94b-5d7a-9917-5d02328d23e1,SAPUI5,9,NotFound,NotFound,NotFound
+189,3e58e59f-34fa-57a8-8323-a16d20a459aa,SAP VC,9,NotFound,NotFound,NotFound
+190,b93532cc-ac16-5699-830e-a1b785597a2e,SAP VIM,9,Found,NotFound,Found
+191,41987fe1-31f3-5b5b-bc38-0f2f49d686e2,SAP WCM,9,NotFound,NotFound,NotFound
+192,73c2cb27-5b52-54ed-9c8f-d8cfa01b8709,SAP WM,9,Found,NotFound,NotFound
+193,a2e4df29-1771-5129-ac36-7a7b11fc54c1,Service Management,9,Found,NotFound,NotFound
+194,89e3d3cc-2856-51db-a888-b811843e5b2a,Sitecore,9,Found,NotFound,Found
+195,ad8ea966-0127-5204-8f59-bed45282524e,SQL Server,9,Found,NotFound,NotFound
+196,e35be42a-ac77-5629-8596-e28b5588559b,SSO,9,NotFound,NotFound,NotFound
+197,4d2cbd15-cb6c-5269-9003-cf06007f034e,Supply Chain,9,Found,Found,Found
+198,ea3ec08d-1216-58da-8ac7-ce365610e0dd,Tableau,9,Found,NotFound,NotFound
+199,34dbec01-db8c-5e72-b243-b4345f5a4a46,Valo Intranet,9,NotFound,NotFound,NotFound
+200,00899720-5fcc-5285-b780-b336dd0f60e0,Vena,9,Found,NotFound,Found
+201,54748d6f-2e33-570b-9c17-74640f9f3e55,Warehousing,9,Found,NotFound,NotFound

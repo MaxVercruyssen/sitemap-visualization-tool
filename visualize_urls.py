@@ -1,20 +1,14 @@
-'''
-Visualize a list of URLs by site path.
-
-This script reads in the sitemap_layers.csv file created by the
-categorize_urls.py script and builds a graph visualization using Graphviz.
-
-Graph depth can be specified by executing a call like this in the
-terminal:
-
-    python visualize_urls.py --depth 4 --limit 10 --title "My Sitemap" --style "dark" --size "40"
-
-The same result can be achieved by setting the variables manually at the head
-of this file and running the script with:
-
-    python visualize_urls.py
-
-'''
+# '''
+#     Visualize a list of URLs by site path.
+#     This script reads in the sitemap_layers.csv file created by the
+#     categorize_urls.py script and builds a graph visualization using Graphviz.
+#     Graph depth can be specified by executing a call like this in the
+#     terminal:
+#         python visualize_urls.py --depth 4 --limit 10 --title "My Sitemap" --style "dark" --size "40"
+#     The same result can be achieved by setting the variables manually at the head
+#     of this file and running the script with:
+#         python visualize_urls.py
+# '''
 from __future__ import print_function
 
 
@@ -107,8 +101,11 @@ def make_sitemap_graph(df, layers=graph_depth, limit=limit, size=size, output_fo
         if connect_to:
             if connect_to in node_names:
                 for name, val in list(zip(names, vals))[:limit]:
-                    f.node(name='%s-%s' % (connect_to, name), label=name)
-                    f.edge(connect_to, '%s-%s' % (connect_to, name), label='{:,}'.format(val))
+                    if val > 1:
+                        f.node(name='%s-%s' % (connect_to, name), label=name)
+                        f.edge(connect_to, '%s-%s' % (connect_to, name), label='{:,}'.format(val))
+                    else:
+                        print(name)
 
 
     f.attr('node', shape='rectangle') # Plot nodes as rectangles
@@ -228,11 +225,19 @@ def apply_style(f, style, title=''):
 
     return f
 
+# def dot_to_json(file_in):
+#     import networkx
+#     from networkx.readwrite import json_graph
+#     import pydot
+#     graph_netx = networkx.drawing.nx_pydot.read_dot(file_in)
+#     graph_json = json_graph.node_link_data( graph_netx )
+#     return json_graph.node_link_data(graph_netx)
 
 def main():
-
+    
     # Read in categorized data
     sitemap_layers = pd.read_csv('sitemap_layers.csv', dtype=str)
+
     # Convert numerical column to integer
     sitemap_layers.counts = sitemap_layers.counts.apply(int)
     print('Loaded {:,} rows of categorized data from sitemap_layers.csv'\
@@ -245,6 +250,10 @@ def main():
 
     f.render(cleanup=True)
     print('Exported graph to sitemap_graph_%d_layer.%s' % (graph_depth, output_format))
+
+    # f_json = dot_to_json(f.body)
+    # with open('json_data.json', 'w') as outfile:
+    #     outfile.write(f_json)
 
 
 if __name__ == '__main__':
